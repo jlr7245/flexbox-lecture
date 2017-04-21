@@ -1,0 +1,69 @@
+/* setting up colors & padding */
+
+header {
+  background-color: aquamarine;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+article {
+  background-color: lightsalmon;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+aside {
+  background-color: lightskyblue;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+footer {
+  background-color: lightgoldenrodyellow;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+/* HERE COMES SOME FLEXBOX */
+
+body {
+
+}
+
+header, footer {
+
+}
+
+main {
+
+}
+
+article {
+
+}
+
+aside {
+
+}
+
+.left {
+
+}
+
+.right {
+
+}
+
+@media screen and (max-width: 1025px) {
+  main {
+
+  }
+
+  article {
+
+  }
+
+  aside {
+
+  }
+}

@@ -1,0 +1,107 @@
+
+/* FLEXBOX GOES HERE */
+
+body {
+  /* three properties */
+}
+
+header {
+  /* two properties */
+}
+
+.logo {
+  /* four properties */
+}
+
+main, article {
+  /* three properties */
+}
+
+.content {
+  /* one property */
+}
+
+.feature {
+  /* two properties */
+}
+
+.col {
+  /* one property */
+}
+
+@media screen and (min-width: 1025px) {
+  header {
+    /* two properties */
+  }
+
+  nav ul {
+    /* one property */
+  }
+
+  main {
+    /* one property */
+  }
+
+  aside {
+    /* one property */
+  }
+
+  article {
+    /* one property */
+  }
+}
+
+
+/* SETUP (DON'T CHANGE THIS) */
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+
+header {
+  background-color: aquamarine;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: plum;
+}
+
+nav ul li {
+  border: 1px solid grey;
+  box-sizing: border-box;
+  padding: 15px;
+}
+
+article {
+  background-color: lightsalmon;
+  box-sizing: border-box;
+}
+
+section {
+  border: 1px solid grey;
+}
+
+.content {
+  padding: 50px;
+}
+
+.col {
+  padding: 10px;
+  background-color: papayawhip;
+  margin: 5px;
+}
+
+aside {
+  background-color: lightskyblue;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+footer {
+  background-color: lightgoldenrodyellow;
+  padding: 50px;
+  box-sizing: border-box;
+}
