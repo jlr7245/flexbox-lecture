@@ -1,3 +1,13 @@
+---
+title: Intro to Flexbox
+type: Lecture
+duration: '"120"'
+creator:
+    name: J Silverstein
+    city: NYC
+competencies: CSS
+---
+
 # Intro to flexbox!
 
 #### What is flexbox?
