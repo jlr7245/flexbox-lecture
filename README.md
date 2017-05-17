@@ -37,7 +37,7 @@ A webpage has no fixed dimensions. It extends potentially infinitely in every di
 
 > An edgeless surface of unknown proportions comprised of small, individual, and variable elements from multiple vantages assembled into a readable whole. (from [The Web's Grain](https://www.frankchimero.com/writing/the-webs-grain/) by Frank Chimero)
 
-Here's a visual to help us understand that concept a little more:
+Here's a visual, again from [The Web's Grain](https://www.frankchimero.com/writing/the-webs-grain/), to help us understand that concept a little more:
 
 ![moment](./assets/moment.jpg)
 
